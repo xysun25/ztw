@@ -1,8 +1,8 @@
 3
-EmimOH2.mmol Tf2n2.mmol mxene2.mmol
+EmimOH.mmol Tf2n.mmol mxene.mmol
 500 500 600
-eq_10ns.xyz
+14.xyz
 -26.32 26.32
-5 17
--96 -52
+7 21
+30 74
  
