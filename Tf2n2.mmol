@@ -18,7 +18,7 @@ F       2.383   -0.979    3.188  1.9980  -0.160  2.6550   0.160 F
 
  File created by utility MAKEMOL, package MDynaMi
  Coordinates taken from file TF2N.smol       
- Force field ffile TF2N_.ff        
+ Force field ffile TF2
 #  Number of bonds 
         
      0     1     2  1.32300    441.80                    #  C   -F   
