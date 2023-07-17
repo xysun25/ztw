@@ -6,7 +6,7 @@ import seaborn as sns
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
-def Init_data():
+def Init_data()
     element_dict = {'atoms': 0
                ,'bonds': 0
                ,'angles': 0
